@@ -43,6 +43,10 @@ If you would like to use this bot, personally or commercially, please give me ([
 
 Any pull request's are welcome!
 
+## Issues
+
+If you have any issue, please don't hesitate to make a [issue](https://github.com/TheGamer456YT/Economy-Bot/issues/new), I will gladly take a look at it and try to fix it!
+
 ## Authors
 
 * **TheGamerYT** - *Initial work & all the project* - [SpaghettDev](https://github.com/TheGamer456YT)
