@@ -11,6 +11,13 @@
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
+## Installation
+
+You can install this project by clicking [here](https://github.com/TheGamer456YT/Economy-Bot/archive/main.zip), or by installing the [release](https://github.com/TheGamer456YT/Economy-Bot/releases/tag/0.0.1), or by running this git command in your command prompt: 
+```shell
+git clone https://github.com/TheGamer456YT/Economy-Bot
+```
+
 ### Prerequisites
 
 What things you need to install the software and how to install them:
