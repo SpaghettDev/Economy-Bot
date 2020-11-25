@@ -1,7 +1,7 @@
 # Economy Bot
 
-[![GitHub contributors](https://img.shields.io/github/contributors/TheGamer456YT/Economy-Bot.svg?style=flat-square)](https://github.com/TheGamer456YT/LumaBot/graphs/contributors)
-[![GitHub license](https://img.shields.io/github/license/TheGamer456YT/Economy-Bot.svg?style=flat-square)](https://github.com/TheGamer456YT/LumaBot/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/TheGamer456YT/Economy-Bot.svg?style=flat-square)](https://github.com/TheGamer456YT/Economy-Bot/graphs/contributors)
+[![GitHub license](https://img.shields.io/github/license/TheGamer456YT/Economy-Bot.svg?style=flat-square)](https://github.com/TheGamer456YT/Economy-Bot/blob/master/LICENSE)
 
 <a href="https://github.com/TheGamer456YT/Economy-Bot/pulse" alt="Activity">
         <img src="https://img.shields.io/github/commit-activity/m/TheGamer456YT/Economy-Bot" /></a>
