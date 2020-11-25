@@ -7,7 +7,7 @@
         <img src="https://img.shields.io/github/commit-activity/m/TheGamer456YT/Economy-Bot" /></a>
 
 
-## Getting Started (NOT Updated)
+## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
