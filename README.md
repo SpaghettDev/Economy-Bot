@@ -46,7 +46,7 @@ Any pull request's are welcome!
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/TheGamer456YT/Economy-Bot/blob/main/LICENSE) file for details
 
 
 
