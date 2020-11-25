@@ -30,6 +30,9 @@ TOKEN=your token
 
 2. If you want a tutorial on how to make a bot account and the basic's of how to make a discord bot, I recommend following [this tutorial](https://github.com/dylanwe/How-to-make-a-discord-bot)
 
+## Usage
+
+If you would like to use this bot, personally or commercially, please give me ([SpaghettDev](https://github.com/TheGamer456YT)) credit.
 
 ## Built With
 
