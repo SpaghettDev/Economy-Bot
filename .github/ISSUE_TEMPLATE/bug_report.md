@@ -1,8 +1,8 @@
 ---
 name: Bug report
-about: Report incorrect or unexpected behavior of Atlanta
-title: BUG
-labels: ''
+about: Report incorrect or unexpected behavior of the bot.
+title: "[BUG] - "
+labels: bug
 assignees: ''
 
 ---
